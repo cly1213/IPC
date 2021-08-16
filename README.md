@@ -1,4 +1,4 @@
-# IPC
+# IPC (Inter Process Communication)
 - UNIX Domain Socket
 - TCP/IP Socket
 
