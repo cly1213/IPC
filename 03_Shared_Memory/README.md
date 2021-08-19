@@ -1,4 +1,4 @@
-# share menory
+# share memory
 ##
 ```
 gcc ...
